@@ -35,6 +35,14 @@ There are a lot of different performance tests/results on the web.  This reposit
 
 
 ## Münchausen Numbers
+A [Münchausen number](https://en.wikipedia.org/wiki/Perfect_digit-to-digit_invariant)
+is a number equal to the sum of its digits raised to each digit's power.
+
+For instance, 3435 is a Münchausen number because
+3<sup>3</sup>+4<sup>4</sup>+3<sup>3</sup>+5<sup>5</sup> = 3435.
+
+0<sup>0</sup> is not well-defined, thus we'll consider 0<sup>0</sup>=0.
+In this case there are four Münchausen numbers: 0, 1, 3435, and 438579088.
 
 | Language         | Compiler/Enhancements | Runtime (sec)  |
 |------------------|-----------------------|----------------|
