@@ -25,7 +25,7 @@ There are a lot of different performance tests/results on the web.  This reposit
 
 - [Münchausen Numbers](https://github.com/jabbalaci/SpeedTests) - [Details Below](#münchausen-numbers)
 - [Calulating PI (π) by Hand - 100,000,000 Times](https://niklas-heer.github.io/speed-comparison) - [Details Below](#calculating-pi-π-by-hand)
-- [The Computer Language - Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - [Details Below]
+- [The Computer Language - Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - [Details Below](#benchmarks-game)
 
 
 ## Münchausen Numbers
