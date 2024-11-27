@@ -25,6 +25,7 @@ There are a lot of different performance tests/results on the web.  This reposit
 
 - [Münchausen Numbers](https://github.com/jabbalaci/SpeedTests) - [Details Below](#münchausen-numbers)
 - [Calulating PI (π) by Hand - 100,000,000 Times](https://niklas-heer.github.io/speed-comparison) - [Details Below](#calculating-pi-π-by-hand)
+- [The Computer Language - Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - [Details Below]
 
 
 ## Münchausen Numbers
@@ -127,4 +128,38 @@ This GitHub Repository https://niklas-heer.github.io/speed-comparison compares s
 | **Assembly**     | Not Evaluated         |                |
 | **Kotlin**       | Not Evaluated         |                |
 
+## Benchmarks Game
+The Benchmarks Game is a popular website https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html that compares several programming languages against one another.
 
+| Language         | Compiler/Enhancements | Runtime (sec)  |
+|------------------|-----------------------|----------------|
+| **Python**       |                       |                |
+|                  | Python 3              | 37 Minutes     |
+| **C++**          | Not Evaluated         |                |
+| **Java**         |                       |                |
+|                  | JDK (23)              | 45.90          |
+| **C**            |                       |                |
+|                  | gcc                   | 39.33          |
+|                  | clang                 | 36.39          |
+| **C#**           |                       |                |
+|                  | .NET 9                | 43.80          |
+| **JavaScript**   |                       |                |
+|                  | node.js 23            | 58.06          |
+| **Go**           |                       |                |
+|                  | go                    | 46.13          |
+| **FORTRAN**      | Not Evaluated         |                |
+| **Visual Basic** | Not Evaluated         |                |
+| **SQL**          | Not Evaluated         |                |
+| **Delphi**       | Not Evaluated         |                |
+| **PHP**          |                       |                |
+|                  | php                   | 28 Minutes     |
+| **MATLAB**       | Not Evaluated         |                |
+| **Rust**         | Not Evaluated         |                |
+| **Swift**        |                       |                |
+|                  | swiftc                | 35.13          |
+| **Scratch**      | Not Evaluated         |                |
+| **Ruby**         |                       |                |
+|                  | ruby                  | 33 Minutes     |
+| **R**            | Not Evaluated         |                |
+| **Assembly**     | Not Evaluated         |                |
+| **Kotlin**       | Not Evaluated         |                |
