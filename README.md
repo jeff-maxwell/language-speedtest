@@ -4,16 +4,18 @@ Looking at various Speed Tests from around the internet to find the best perform
 
 We will be only evaluating languages from the top 20 languages listed on the [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 
-| 1. Python              | 11. Delphi/Object Pascal |
-| 2. C++                 | 12. PHP                  |
-| 3. Java                | 13. MATLAB**             |
-| 4. C                   | 14. Rust                 |
-| 5. C# (.NET)           | 15. Swift                |
-| 6. JavaScript          | 16. Scratch**            |
-| 7. Go                  | 17. Ruby                 |
-| 8. FORTRAN             | 18. R**                  |
-| 9. Visual Basic (.NET) | 19. Assembly Language    |
-| 10. SQL**              | 20. Kotlin               |
+| Top 1 - 10             | Top 11 - 20              |
+|------------------------|--------------------------|
+| 1) Python              | 11) Delphi/Object Pascal |
+| 2) C++                 | 12) PHP                  |
+| 3) Java                | 13) MATLAB**             |
+| 4) C                   | 14) Rust                 |
+| 5) C# (.NET)           | 15) Swift                |
+| 6) JavaScript          | 16) Scratch**            |
+| 7) Go                  | 17) Ruby                 |
+| 8) FORTRAN             | 18) R**                  |
+| 9) Visual Basic (.NET) | 19) Assembly Language    |
+| 10) SQL**              | 20) Kotlin               |
 
 ** These languages either do not compile to a executable or run inside of another application so cannot be evaluated for performance tests.
 
