@@ -36,45 +36,46 @@ There are a lot of different performance tests/results on the web.  This reposit
 
 ## Münchausen Numbers
 
-| Language     | Compiler/Enhancements | Runtime (sec)  |
-|--------------|-----------------------|----------------|
-| Python       |                       |                |
-|              | Python 3              | 257.15 ± 1.472 |
-|              | mypyc                 | 80.481 ± 0.574 |
-|              | Nim Compiler          | 46.772 ± 0.203 |
-|              | Rust                  | 40.263 ± 1.152 |
-|              | pypy3                 | 20.05 ± 0.019  |
-|              | Numba Compiler        | 5.526 ± 0.435  |
-|              | Codon Compiler        | 5.369 ± 0.006  |
-| C++          |                       |                |
-|              | g++ (GCC)             | 3.849 ± 0.012  |
-|              | clang++               | 2.827 ± 0.015  |
-| Java         |                       |                |
-|              | JDK (21)              | 5.003 ± 0.002  |
-| C            |                       |                |
-|              | gcc                   | 3.892 ± 0.001  |
-|              | clang                 | 2.672 ± 0.001  |
-| C#           |                       |                |
-|              | .NET 8                | 5.614 ± 0.097  |
-| JavaScript   |                       |                |
-|              | node.js               | 6.819 ± 0.001  |
-| Go           |                       |                |
-|              |                       | 3.5 ± 0.045    |
-| FORTRAN      | gfortran              | 3.884 ± 0.054  |
-| Visual Basic | Not Evaluated         |                |
-| SQL          | Not Evaluated         |                |
-| Delphi       | Not Evaluated         |                |
-| PHP          |                       |                |
-|              | php                   | 181.492 ± 0.536|
-| MATLAB       | Not Evaluated         |                |
-| Rust         |                       |                |
-|              | cargo                 | 2.936 ± 0.078  |
-| Swift        |                       |                |
-|              | swiftc                | 3.335 ± 0.004  |
-| Scratch      | Not Evaluated         |                |
-| Ruby         |                       |                |
-|              | ruby --jit            | 75.863 ± 1.174 |
-| R            | Not Evaluated         |                |
-| Assembly     | Not Evaluated         |                |
-| Kotlin       |                       |                |
-|              | kotlinc               | 5.092 ± 0.004  |
+| Language         | Compiler/Enhancements | Runtime (sec)  |
+|------------------|-----------------------|----------------|
+| **Python**       |                       |                |
+|                  | Python 3              | 257.15 ± 1.472 |
+|                  | mypyc                 | 80.481 ± 0.574 |
+|                  | Nim Compiler          | 46.772 ± 0.203 |
+|                  | Rust                  | 40.263 ± 1.152 |
+|                  | pypy3                 | 20.05 ± 0.019  |
+|                  | Numba Compiler        | 5.526 ± 0.435  |
+|                  | Codon Compiler        | 5.369 ± 0.006  |
+| **C++**          |                       |                |
+|                  | g++ (GCC)             | 3.849 ± 0.012  |
+|                  | clang++               | 2.827 ± 0.015  |
+| **Java**         |                       |                |
+|                  | JDK (21)              | 5.003 ± 0.002  |
+| **C**            |                       |                |
+|                  | gcc                   | 3.892 ± 0.001  |
+|                  | clang                 | 2.672 ± 0.001  |
+| **C#**           |                       |                |
+|                  | .NET 8                | 5.614 ± 0.097  |
+| **JavaScript**   |                       |                |
+|                  | node.js               | 6.819 ± 0.001  |
+| **Go**           |                       |                |
+|                  |                       | 3.5 ± 0.045    |
+| **FORTRAN**      |                       |                |
+|                  | gfortran              | 3.884 ± 0.054  |
+| **Visual Basic** | Not Evaluated         |                |
+| **SQL**          | Not Evaluated         |                |
+| **Delphi**       | Not Evaluated         |                |
+| **PHP**          |                       |                |
+|                  | php                   | 181.492 ± 0.536|
+| **MATLAB**       | Not Evaluated         |                |
+| **Rust**         |                       |                |
+|                  | cargo                 | 2.936 ± 0.078  |
+| **Swift**        |                       |                |
+|                  | swiftc                | 3.335 ± 0.004  |
+| **Scratch**      | Not Evaluated         |                |
+| **Ruby**         |                       |                |
+|                  | ruby --jit            | 75.863 ± 1.174 |
+| **R**            | Not Evaluated         |                |
+| **Assembly**     | Not Evaluated         |                |
+| **Kotlin**       |                       |                |
+|                  | kotlinc               | 5.092 ± 0.004  |
