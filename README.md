@@ -26,6 +26,7 @@ There are a lot of different performance tests/results on the web.  This reposit
 - [Münchausen Numbers](https://github.com/jabbalaci/SpeedTests) - [Details Below](#münchausen-numbers)
 - [Calulating PI (π) by Hand - 100,000,000 Times](https://niklas-heer.github.io/speed-comparison) - [Details Below](#calculating-pi-π-by-hand)
 - [The Computer Language - Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - [Details Below](#benchmarks-game)
+- [Primes Drag Race](https://github.com/PlummersSoftwareLLC/Primes/tree/drag-race) - [Details Below](#primes---drag-race)
 
 
 ## Münchausen Numbers
@@ -163,3 +164,25 @@ The Benchmarks Game is a popular website https://benchmarksgame-team.pages.debia
 | **R**            | Not Evaluated         |                |
 | **Assembly**     | Not Evaluated         |                |
 | **Kotlin**       | Not Evaluated         |                |
+
+## Primes - Drag Race
+
+Coming Soon
+
+## API Static JSON
+
+This will test performance of a Web API returning Static JSON
+
+Coming Soon
+
+## API Dynamic JSON
+
+This will test performance of a Web API returning Dynamic Random JSON
+
+Coming Soon
+
+## API Database Data to JSON
+
+This will test performance of a Web API returning JSON from a Database
+
+Coming Soon
